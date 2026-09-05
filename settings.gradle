@@ -1,3 +1,2 @@
 rootProject.name = "Mubeen's Maps App"
-
 include ':app'
